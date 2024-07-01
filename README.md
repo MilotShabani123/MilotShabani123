@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MilotShabani123
-- 👀 I’m interested in ICT Tech and especialy programmin
+- 👀 I’m interested in ICT Tech and especialy programming
 - 🌱 I’m currently learning Front-End Web Development and Date Structures and Algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me milotshabani77@gmail.com 
